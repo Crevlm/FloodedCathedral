@@ -2,6 +2,8 @@
 
 > A Quake 1 single-player level focused on environmental storytelling, atmospheric exploration, and player-driven navigation.
 
+> To play the map on your own please navigate to the **Releases** tab on the right side and download the Cathedral v1.0.0. bsp file.
+
 ![Flooded Cathedral Banner](https://github.com/user-attachments/assets/849b850b-ca81-4466-b4f0-7ea2bc9f6b3c)
 
 ---
