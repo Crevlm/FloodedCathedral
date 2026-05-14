@@ -2,8 +2,7 @@
 
 > A Quake 1 single-player level focused on environmental storytelling, atmospheric exploration, and player-driven navigation.
 
-![Banner Image Here](<img width="2880" height="1800" alt="Cathedral-v1 0-Release_2026-05-13_20-11-44" src="https://github.com/user-attachments/assets/849b850b-ca81-4466-b4f0-7ea2bc9f6b3c" />
-)
+![Flooded Cathedral Banner](https://github.com/user-attachments/assets/849b850b-ca81-4466-b4f0-7ea2bc9f6b3c)
 
 ---
 
